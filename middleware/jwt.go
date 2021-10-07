@@ -10,7 +10,7 @@ import (
 	"strings"
 
 	"github.com/golang-jwt/jwt"
-	"github.com/labstack/echo/v4"
+	"github.com/oldfritter/echo/v4"
 )
 
 type (

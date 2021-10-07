@@ -10,7 +10,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/labstack/echo/v4"
+	"github.com/oldfritter/echo/v4"
 	"github.com/labstack/gommon/bytes"
 )
 

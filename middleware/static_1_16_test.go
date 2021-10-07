@@ -10,7 +10,7 @@ import (
 	"testing"
 	"testing/fstest"
 
-	"github.com/labstack/echo/v4"
+	"github.com/oldfritter/echo/v4"
 	"github.com/stretchr/testify/assert"
 )
 
